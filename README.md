@@ -13,3 +13,4 @@ git clone https://github.com/Xenz404/share
 cd share
 python Run.py
 ```
+### Kalo mo ganti link ketik <b>rm link.txt </b> trus jalanin ulang
